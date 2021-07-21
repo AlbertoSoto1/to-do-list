@@ -13,3 +13,5 @@ it implements the following frameworks:
 **Delete an item checking the box beside the task**
 
 ![todo_preview-2](https://user-images.githubusercontent.com/43797347/126550911-520f064f-adfd-4d0d-8183-cb7271644590.png)
+
+Made by Alberto @ <a href="https://www.udemy.com/share/1013gG2@PkdKVF5YSVMOdE9CO0hNfRQ=/">Web Development Bootcamp</a>.
